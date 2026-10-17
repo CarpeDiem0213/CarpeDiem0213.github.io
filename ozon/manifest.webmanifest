@@ -1,0 +1,16 @@
+{
+  "id": "/ozon/",
+  "name": "OZON 经营工作台",
+  "short_name": "OZON 工作台",
+  "description": "本店经营日报、价格库存、买家议价与财务工作台",
+  "lang": "zh-CN",
+  "start_url": "/ozon/",
+  "scope": "/ozon/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#ffffff",
+  "icons": [
+    {"src":"/ozon/app-icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/ozon/app-icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
